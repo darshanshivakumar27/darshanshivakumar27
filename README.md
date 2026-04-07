@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋 I'm Darshan S
 
-<!--
-**darshanshivakumar27/darshanshivakumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science & Data Science
+🏫 PES College of Engineering, Mandya
+💻 Passionate about AI, Backend Development and Automation Testing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Computer Science student passionate about building real-world projects
+* Experience in Python development and automation testing
+* Interested in AI agents, backend systems, and data-driven applications
+* Currently working on AI-powered systems and API automation frameworks
+
+---
+
+## 🛠️ Skills
+
+**Programming**
+
+Python
+Swift
+SQL
+
+**Frameworks & Tools**
+
+Django
+Pytest
+Git & GitHub
+
+**Technologies**
+
+REST APIs
+Automation Testing
+AI Agents
+RAG Systems
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Prediction Market AI Agent
+
+AI-powered multi-agent system that analyzes prediction markets using data scraping, RAG memory, and decision-making agents.
+
+Technologies used:
+Python
+RAG Memory
+Multi-Agent Systems
+
+Repository
+https://github.com/darshanshivakumar27/prediction-ai-agent
+
+---
+
+### 🔍 SignSetu QA API Automation
+
+Automated API testing framework built using Python and Pytest for validating backend APIs and detecting bugs.
+
+Technologies used:
+Python
+Pytest
+REST API Testing
+
+Repository
+https://github.com/darshanshivakumar27/SignSetu-QA-API-Automation
+
+---
+
+## 📫 Connect With Me
+
+GitHub
+https://github.com/darshanshivakumar27
+
+LinkedIn
+(Add your LinkedIn link here)
