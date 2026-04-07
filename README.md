@@ -2,16 +2,16 @@
 
 🎓 BE Computer Science & Data Science
 🏫 PES College of Engineering, Mandya
-💻 Passionate about AI, Backend Development, and Automation Testing
+💻 Passionate about AI Systems, Backend Development, and Automation Testing
 
 ---
 
 ## 🚀 About Me
 
-* Computer Science student passionate about building real-world software projects
-* Skilled in Python development, API automation testing, and backend systems
-* Interested in Artificial Intelligence, AI agents, and data-driven applications
-* Currently working on AI-powered systems and automation frameworks
+* Computer Science student passionate about building real-world software systems
+* Skilled in **Python development, backend APIs, and automation testing**
+* Interested in **Artificial Intelligence, AI agents, and data-driven applications**
+* Currently working on **AI-powered systems and data analysis projects**
 
 ---
 
@@ -36,6 +36,7 @@ REST APIs
 Automation Testing
 AI Agents
 RAG Systems
+Data Analysis
 
 ---
 
@@ -43,13 +44,14 @@ RAG Systems
 
 ### 🤖 Prediction Market AI Agent
 
-AI-powered multi-agent system that analyzes prediction markets using data scraping, RAG memory, and decision-making agents.
+AI-powered **multi-agent system** that researches events and generates prediction insights using web scraping and RAG memory.
 
 **Technologies Used**
 
 Python
+Apify Web Scraping
 RAG Memory
-Multi-Agent Systems
+Multi-Agent Architecture
 
 Repository
 https://github.com/darshanshivakumar27/prediction-ai-agent
@@ -58,7 +60,7 @@ https://github.com/darshanshivakumar27/prediction-ai-agent
 
 ### 🔍 SignSetu QA API Automation
 
-Automated API testing framework built using Python and Pytest for validating backend APIs and detecting bugs.
+Automated **API testing framework** using Python and Pytest to validate backend APIs and detect bugs.
 
 **Technologies Used**
 
@@ -68,6 +70,22 @@ REST API Testing
 
 Repository
 https://github.com/darshanshivakumar27/SignSetu-QA-API-Automation
+
+---
+
+### 📊 PrimeTrade Sentiment Analysis
+
+Data analysis project exploring the relationship between **trading profits and market sentiment (Fear & Greed Index)**.
+
+**Technologies Used**
+
+Python
+Pandas
+Matplotlib
+Seaborn
+
+Repository
+https://github.com/darshanshivakumar27/primetrade-sentiment-analysis
 
 ---
 
