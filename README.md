@@ -1,122 +1,186 @@
-# Hi 👋 I'm Darshan S
+# 👋 Hi, I'm Darshan S
 
-🎓 BE Computer Science & Data Science
-🏫 PES College of Engineering, Mandya
-💻 Passionate about AI Systems, Backend Development, and Automation Testing
+🎓 BE Computer Science & Data Science — PES College of Engineering, Mandya
+💻 Aspiring **AI Engineer | Backend Developer | Automation Tester**
 
 ---
 
 ## 🚀 About Me
 
-* Computer Science student passionate about building real-world software systems
-* Skilled in **Python development, backend APIs, and automation testing**
-* Interested in **Artificial Intelligence, AI agents, and data-driven applications**
-* Currently working on **AI-powered systems and data analysis projects**
+I build **real-world AI systems and backend applications** focused on:
+
+* 🧠 AI system design (RAG, multi-agent systems, prompt safety)
+* ⚙️ Backend APIs and scalable architectures
+* 🧪 Automation testing and debugging
+
+I enjoy solving problems that combine **AI + backend + real-world logic**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 👨‍💻 Languages
 
-Python
-Swift
-SQL
+Python • SQL • Swift
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
-Django
-Pytest
-Git
-GitHub
+Django • FastAPI • Pytest • Git • GitHub
 
-### Technologies
+### 🤖 AI & Data
 
-REST APIs
-Automation Testing
-AI Agents
-RAG Systems
-Data Analysis
+LangChain • LangGraph • RAG • Vector Search • Pandas • Matplotlib
 
 ---
 
-## 📌 Featured Projects
-
-### 🤖 Prediction Market AI Agent
-
-AI-powered **multi-agent system** that researches events and generates prediction insights using web scraping and RAG memory.
-
-**Technologies Used**
-
-Python
-Apify Web Scraping
-RAG Memory
-Multi-Agent Architecture
-
-Repository
-https://github.com/darshanshivakumar27/prediction-ai-agent
+# 🚀 Featured Projects (Flagship)
 
 ---
 
-### 🔍 SignSetu QA API Automation
+## 🧠 Grid07 AI Engineering System ⭐
 
-Automated **API testing framework** using Python and Pytest to validate backend APIs and detect bugs.
+**Cognitive Routing + LangGraph + RAG Defense**
 
-**Technologies Used**
+* Vector-based persona routing
+* LangGraph workflow orchestration
+* Prompt injection defense system
 
-Python
-Pytest
-REST API Testing
-
-Repository
-https://github.com/darshanshivakumar27/SignSetu-QA-API-Automation
+🔗 https://github.com/darshanshivakumar27/grid07-ai-assignment
 
 ---
 
-### 📊 PrimeTrade Sentiment Analysis
+## 🤖 Prediction Market AI Agent
 
-Data analysis project exploring the relationship between **trading profits and market sentiment (Fear & Greed Index)**.
+* Multi-agent system
+* Web scraping + RAG memory
+* Event-based prediction insights
 
-**Technologies Used**
-
-Python
-Pandas
-Matplotlib
-Seaborn
-
-Repository
-https://github.com/darshanshivakumar27/primetrade-sentiment-analysis
+🔗 https://github.com/darshanshivakumar27/prediction-ai-agent
 
 ---
 
-## 📊 GitHub Stats
+## 🔍 SignSetu QA API Automation
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanshivakumar27\&show_icons=true)
+* API testing using Pytest
+* Bug detection & validation
+* Async polling
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanshivakumar27\&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=darshanshivakumar27)
+🔗 https://github.com/darshanshivakumar27/SignSetu-QA-API-Automation
 
 ---
 
-## 🏆 Skills
-
-Python Development
-API Automation Testing
-Backend Development
-AI Systems
-Data Analysis
+# ⚙️ Backend & Systems Projects
 
 ---
 
-## 📫 Connect With Me
+## 🧺 Laundry Order Management System
 
-GitHub
-https://github.com/darshanshivakumar27
+* FastAPI backend
+* Order tracking + analytics
 
-LinkedIn
-(Add your LinkedIn profile link here)
+🔗 https://github.com/darshanshivakumar27/laundry-order-system
+
+---
+
+## 📈 Trading Bot CLI
+
+* Binance-style simulation
+* Order execution + logging
+
+🔗 https://github.com/darshanshivakumar27/trading-bot-cli
+
+---
+
+## 📝 To-Do CLI App
+
+* Git branching workflow
+* CLI-based task management
+
+🔗 https://github.com/darshanshivakumar27/todo-app
+
+---
+
+# 📊 Data & Machine Learning Projects
+
+---
+
+## 📊 PrimeTrade Sentiment Analysis
+
+* Profit vs Fear & Greed Index
+
+🔗 https://github.com/darshanshivakumar27/primetrade-sentiment-analysis
+
+---
+
+## 📉 Unemployment Analysis
+
+🔗 https://github.com/darshanshivakumar27/CodeAlpha_Unemployment
+
+---
+
+## 🚗 Car Price Prediction
+
+🔗 https://github.com/darshanshivakumar27/CodeAlpha_CarPricePrediction
+
+---
+
+## 🌸 Iris Classification
+
+🔗 https://github.com/darshanshivakumar27 (check ML repos)
+
+---
+
+# 🧠 AI & Other Projects
+
+---
+
+## 🤖 AI Tutor Learning System
+
+* CLI-based AI tutor
+* Q&A + evaluation
+
+---
+
+## 📱 Flutter Feed UI App
+
+* Modular UI architecture
+
+🔗 https://github.com/darshanshivakumar27 (Flutter repo)
+
+---
+
+## 🧪 Task API Assignment
+
+* API debugging + testing
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=darshanshivakumar27\&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanshivakumar27\&layout=compact)
+
+---
+
+# 🔥 Strengths
+
+* AI System Design (RAG, Agents, Workflows)
+* Backend Development (APIs, Architecture)
+* Automation Testing
+* Data Analysis
+
+---
+
+# 📫 Connect With Me
+
+🔗 GitHub: https://github.com/darshanshivakumar27
+🔗 LinkedIn: https://www.linkedin.com/in/darshan-s-675709298/
+
+---
+
+# 🎯 Career Goal
+
+To build **intelligent, scalable AI systems** that solve real-world problems using **AI + backend engineering + data-driven design**.
+
+---
